@@ -1,0 +1,10 @@
+.heart-icon.liked {
+  color: red;
+  text-shadow: 0 0 8px rgba(255, 0, 0, 0.4); /* Adding shadow with a red tint */
+}
+
+.heart-icon {
+  /* Default styles */
+  transition: color 0.25s, text-shadow 0.3s; /* Adding a transition for smooth animation */
+}
+
