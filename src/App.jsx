@@ -1,16 +1,17 @@
 
 import Header from "./Components/Header-Comp/Header";
 import Navbar from "./Components/Navbar-Comp/Navbar";
-import MealList from "./Components/MealList";
 import Footer from "./Components/Footer-Comp/Footer";
+import RecipeSearch from "./Components/RecipeSearch/RecipeSearch";
 
 
 function App() {
 	return (
 		<div>
 			<Header />
-			<Footer />
 			<Navbar />
+			<RecipeSearch/>
+			<Footer />
 
 		
 		</div>
