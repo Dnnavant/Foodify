@@ -1,4 +1,4 @@
-![Logo](foodify-logo.png)
+![Logo]([foodify-logo.png](http://localhost:5175/images/foodify-logo.png))
 
 Foodify
 
