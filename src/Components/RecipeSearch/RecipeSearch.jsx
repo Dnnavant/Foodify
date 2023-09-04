@@ -26,7 +26,7 @@ function RecipeSearch() {
   };
 
   return (
-    <div className="container">
+    <div className="RecipeSearch-container">
       {/* <h1 className="brand">Foodify Yourself</h1> */}
       <form onSubmit={handleSearch}>
         <input
