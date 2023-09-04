@@ -7,6 +7,8 @@
 }
 
 .subscribe-section {
+	min-height:80px;
+	padding:0px;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
@@ -30,7 +32,7 @@
 
 .subscribe-form input[type="email"] {
 	padding: 7px;
-	width: 300px;
+	width: 400px;
 	margin-right: -80px;
 	border-radius: 20px;
 }
@@ -50,15 +52,18 @@
 	margin-right: 20px;
 }
 .subscribe-icons p {
-	font-family: monospace;
+	font-family:'Poppins', sans-serif;
+	 /*monospace;*/
 }
 .subscribe-content h1 {
-	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	font-family:'Poppins', sans-serif;
+	/*"Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;*/
 }
 .subscribe-content p {
-	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	font-family: 'Poppins', sans-serif;
+	/*"Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;*/
 }
 
 .section-divider {
@@ -67,13 +72,15 @@
 }
 
 .foodify-section {
+	min-height:340px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	background-color: #000;
 	color: #fff;
 	padding: 20px;
-	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+	font-family: /*'Poppins', sans-serif;*/
+	"Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
 		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
@@ -83,9 +90,11 @@
 }
 .foodify-info h1 {
 	font-size: xx-large;
+	margin-bottom: 20px;
 }
 .foodify-info p {
 	text-align: justify;
+	margin-bottom: 20px;
 }
 .foodify-info .contact {
 	color: rgb(245, 243, 114);
@@ -119,12 +128,14 @@
 
 .copyright-section {
 	display: flex;
+	min-height: 80px;
 	justify-content: space-between;
 	align-items: center;
 	background-color: black;
 	padding: 15px;
 	color: aliceblue;
-	font-family: monospace;
+	font-family: 'Poppins', sans-serif;
+	/*monospace;*/
 	font-size: 12px;
 }
 
