@@ -3,10 +3,11 @@
 .footer {
 	display: flex;
 	flex-direction: column;
-	padding: 0px;
+	padding-top:100px;
 }
 
 .subscribe-section {
+	
 	min-height:80px;
 	padding:0px;
 	display: flex;
