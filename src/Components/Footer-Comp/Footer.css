@@ -30,11 +30,13 @@
 	align-items: center;
 }
 
-.subscribe-form input[type="email"] {
+.subscribe-form input[type="email"]{
 	padding: 7px;
 	width: 400px;
 	margin-right: -80px;
 	border-radius: 20px;
+	font-size: 16px;
+	
 }
 
 .subscribe-form button {
@@ -94,6 +96,7 @@
 }
 .foodify-info p {
 	text-align: justify;
+	line-height:20px;
 	margin-bottom: 20px;
 }
 .foodify-info .contact {
@@ -124,6 +127,7 @@
 }
 .footer-column h2 {
 	color: rgb(134, 182, 39);
+	margin-bottom: 20px;
 }
 
 .copyright-section {
