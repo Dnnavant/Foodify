@@ -12,14 +12,24 @@ export default function Header() {
       </a>
       <span className="nav--name">oodify</span>
     </div>
-    {/* <div className="middle-section">
-      <span className="header--search-bar">
+    <div className="middle-section">
+    <nav className="navbar">
+			<div className="navbar-container">
+				<ul className="navbar-menu">
+					<li className="navbar-item">Home</li>
+					<li className="navbar-item">About Us</li>
+				</ul>
+			</div>
+		</nav>
+
+
+      {/* <span className="header--search-bar">
         <input type="text" placeholder="Search" />
         <button className="search-button">
       <i className="fas fa-search"></i>
     </button>
-      </span>
-    </div> */}
+      </span> */}
+    </div>
     <div className="right-section">
       {<ChangeLanguage/>}
     </div>
