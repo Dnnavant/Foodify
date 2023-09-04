@@ -122,7 +122,7 @@ useEffect(() => {
             <ul>
             <li><a href="/">About Us</a></li>
               <li><a href="/">Cooking Courses</a></li>
-              <li><a href="/contact">Carrers</a></li>
+              <li><a href="/contact">Careers</a></li>
               <li><a href="/contact">Advertise With Us</a></li>
               <li><a href="/contact">Post Recipe</a></li>
             </ul>

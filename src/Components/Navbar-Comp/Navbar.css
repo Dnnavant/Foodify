@@ -29,43 +29,4 @@
   align-items: center; 
 }
 
-.navbar-item {
-  cursor: pointer;
-}
 
-/* Dropdown styles */
-.navbar-dropdown {
-  position: relative;
-}
-
-.dropdown-menu {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background-color: #fff;
-  border: 1px solid #ccc;
-  padding: 10px;
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-  text-align: center; /* Centering the text in the dropdown menu */
-}
-
-.navbar-dropdown:hover .dropdown-menu {
-  display: block;
-}
-
-.dropdown-item {
-  cursor: pointer;
-}
-
-/* Hamburger  */
-.bar{
-  display: block;
-  width: 25px;
-  height: 3px;
-  margin: 5px auto;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-  background-color: #fff;
-
-}

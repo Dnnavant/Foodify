@@ -1,0 +1,38 @@
+/* LandingPage.css */
+
+.landing-page {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.LandingPage-BG-image {
+  /* position: absolute;
+  top: 0;
+  left: 0; */
+  width: 100%;
+  height: 100%;
+  background-image: url('/Foodify/public/images/original.gif');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.6;
+}
+
+.content {
+  /* position: relative; */
+  /* text-align: center;
+  z-index: 1; */
+  color: black;
+  padding: 20px;
+}
+
+.LandingPage-title {
+  font-size: 36px;
+}
+
+.LandingPage-para {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+

@@ -3,7 +3,7 @@
 .footer {
 	display: flex;
 	flex-direction: column;
-	padding: 0px;
+	
 }
 
 .subscribe-section {
@@ -209,4 +209,3 @@
 	}
 }
 
-/* ... rest of the styles ... */
