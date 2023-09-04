@@ -25,12 +25,11 @@ section {
 
 .RecipeSearch-container {
 	width: 100%;
-	height: 50vh;
+	height: 90%;
 	max-width: 1400px;
 	margin: 0 auto;
 	padding: 20px;
 }
-
 .brand {
 	text-align: center;
 	font-size: 3.5rem;
