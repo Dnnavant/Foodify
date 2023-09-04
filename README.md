@@ -1,8 +1,6 @@
-# React + Vite
+![Logo](foodify-logo.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Foodify
 
-Currently, two official plugins are available:
+Discover a world of culinary delights at Foodify! Unleash your inner chef with our vast collection of mouthwatering recipes, from gourmet dishes to quick and easy meals. Join our vibrant food-loving community today and embark on a flavorful journey like no other. Bon appétit! 🍽️ #FoodifyDelights
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
