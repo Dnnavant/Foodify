@@ -6,10 +6,12 @@ import AboutUs from "./Components/AboutUs/AboutUs";
 
 
 
+
 function App() {
 	return (
 		<div>
 			<Header />
+			
 			<RecipeSearch/>
 			<AboutUs />
 			<Footer />

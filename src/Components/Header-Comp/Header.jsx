@@ -17,7 +17,7 @@ export default function Header() {
 			<div className="navbar-container">
 				<ul className="navbar-menu">
 					<li className="navbar-item">Home</li>
-					<li className="navbar-item">About Us</li>
+					<span><li className="navbar-item">About Us</li></span>
 				</ul>
 			</div>
 		</nav>
