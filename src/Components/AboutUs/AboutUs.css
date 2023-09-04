@@ -33,14 +33,14 @@
   text-align: left;
 }
 
-label {
+.AboutUs-label {
   display: block;
   font-weight: bold;
 }
 
-input[type="text"],
-input[type="email"],
-textarea {
+.AboutUs-input[type="text"],
+.AboutUs-input[type="email"],
+.AboutUs-textarea {
   width: 100%;
   padding: 10px;
   border: 1px solid #ccc;
@@ -61,7 +61,7 @@ textarea {
   transition: background-color 0.3s;
 }
 
-button[type="submit"]:hover {
+.AboutUs-button[type="submit"]:hover {
   background-color: black;
   color:white;
 }

@@ -41,9 +41,7 @@ function RecipeSearch() {
 					<button className="RecipeSearch-button" type="submit">
 						<i className="fas fa-search"></i>
 					</button>
-				
 				</div>
-				
 			</form>
 
 			{/* Search Result Below */}
